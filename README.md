@@ -26,7 +26,7 @@ MNBTC is a coin with Staking and Masternodes and with a max supply like Bitcoin 
 </tr>
 <tr>
 <td>Block Time</td>
-<td>300 Sec</td>
+<td>300 Sec  = 5 Minutes</td>
 </tr>
 <tr>
 <td>Maximum Supply</td>
