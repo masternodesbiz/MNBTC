@@ -48,3 +48,41 @@ MNBTC is a coin with Staking and Masternodes and with a max supply like Bitcoin 
 <td>RPC Port</td>
 <td>15223</td>
 </tr>
+  
+  
+<br>
+<h2><strong>POS Rewards Distribution:</strong></h2>
+<table border="0" width="600" cellspacing="2" cellpadding="2"><colgroup><col width="26" /><col width="106" /><col width="98" /><col width="126" /><col width="130" /><col width="118" /></colgroup>
+<tbody>
+<tr>
+<td class="xl65" style="width: 120px; text-align: center;"><strong>Block Start</strong></td>
+<td class="xl65" style="width: 120px; text-align: center;"><strong>Block End</strong></td>
+<td class="xl65" style="width: 180px; text-align: center;"><strong>Masternode Collateral</strong></td>
+<td class="xl65" style="width: 120px; text-align: center;"><strong>Block Reward</strong></td>
+<td class="xl65" style="width: 120px; text-align: center;"><strong>MN Reward</strong></td>
+<td class="xl66" style="width: 120px; text-align: center;"><strong>POS Reward</strong></td>
+</tr>
+<tr>
+<td class="xl65" style="width: 120px; text-align: center;">1</td>
+<td class="xl65" style="width: 120px; text-align: center;">210000</td>
+<td class="xl65" style="width: 180px; text-align: center;">2000</td>
+<td class="xl65" style="width: 120px; text-align: center;">50</td>
+<td class="xl65" style="width: 120px; text-align: center;">40</td>
+<td class="xl66" style="width: 120px; text-align: center;">10</td>
+</tr>
+<tr>
+<td class="xl65" style="width: 120px; text-align: center;">210001</td>
+<td class="xl65" style="width: 120px; text-align: center;">420000</td>
+<td class="xl65" style="width: 180px; text-align: center;">2000</td>
+<td class="xl65" style="width: 120px; text-align: center;">25</td>
+<td class="xl65" style="width: 120px; text-align: center;">20</td>
+<td class="xl66" style="width: 120px; text-align: center;">5</td>
+</tr>
+<tr>
+<td class="xl65" style="width: 120px; text-align: center;">420001</td>
+<td class="xl65" style="width: 120px; text-align: center;">630000</td>
+<td class="xl65" style="width: 180px; text-align: center;">2000</td>
+<td class="xl65" style="width: 120px; text-align: center;">12.5</td>
+<td class="xl65" style="width: 120px; text-align: center;">10</td>
+<td class="xl65" style="width: 120px; text-align: center;">2.5</td>
+</tr>
