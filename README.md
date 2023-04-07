@@ -13,6 +13,10 @@ MNBTC is a coin with Staking and Masternodes and with a max supply like Bitcoin 
 <table>
 <tbody>
 <tr>
+<td>Masternode Collateral</td>
+<td>2000 MNBTC</td>
+</tr>
+<tr>
 <td>Coin Name & Ticker</td>
 <td>MasternodeBTC [MNBTC]</td>
 </tr>
@@ -92,5 +96,29 @@ MNBTC is a coin with Staking and Masternodes and with a max supply like Bitcoin 
 <td class="xl65" style="width: 180px; text-align: center;">2000</td>
 <td class="xl65" style="width: 120px; text-align: center;">6.25</td>
 <td class="xl65" style="width: 120px; text-align: center;">5.2</td>
-<td class="xl66" style="width: 120px; text-align: center;">1.3</td>
+<td class="xl66" style="width: 120px; text-align: center;">1.25</td>
+</tr>
+<tr>
+<td class="xl65" style="width: 120px; text-align: center;">840001</td>
+<td class="xl65" style="width: 120px; text-align: center;">1050000</td>
+<td class="xl65" style="width: 180px; text-align: center;">2000</td>
+<td class="xl65" style="width: 120px; text-align: center;">3.125</td>
+<td class="xl65" style="width: 120px; text-align: center;">2.5</td>
+<td class="xl66" style="width: 120px; text-align: center;">0.625</td>
+</tr>
+<tr>
+<td class="xl65" style="width: 120px; text-align: center;">1050001</td>
+<td class="xl65" style="width: 120px; text-align: center;">1260000</td>
+<td class="xl65" style="width: 180px; text-align: center;">2000</td>
+<td class="xl65" style="width: 120px; text-align: center;">1.5625</td>
+<td class="xl65" style="width: 120px; text-align: center;">1.25</td>
+<td class="xl66" style="width: 120px; text-align: center;">0.3125</td>
+</tr>
+<tr>
+<td class="xl65" style="width: 120px; text-align: center;">1260001</td>
+<td class="xl65" style="width: 120px; text-align: center;">1470000</td>
+<td class="xl65" style="width: 180px; text-align: center;">2000</td>
+<td class="xl65" style="width: 120px; text-align: center;">0.78125</td>
+<td class="xl65" style="width: 120px; text-align: center;">0.625</td>
+<td class="xl66" style="width: 120px; text-align: center;">0.15625</td>
 </tr>
