@@ -122,3 +122,51 @@ MNBTC is a coin with Staking and Masternodes and with a max supply like Bitcoin 
 <td class="xl65" style="width: 120px; text-align: center;">0.625</td>
 <td class="xl66" style="width: 120px; text-align: center;">0.15625</td>
 </tr>
+<tr>
+<td class="xl65" style="width: 120px; text-align: center;">1470001</td>
+<td class="xl65" style="width: 120px; text-align: center;">1680000</td>
+<td class="xl65" style="width: 180px; text-align: center;">2000</td>
+<td class="xl65" style="width: 120px; text-align: center;">0.39062500</td>
+<td class="xl65" style="width: 120px; text-align: center;">0.3125</td>
+<td class="xl66" style="width: 120px; text-align: center;">0.078125</td>
+</tr>
+<tr>
+<td class="xl65" style="width: 120px; text-align: center;">1680001</td>
+<td class="xl65" style="width: 120px; text-align: center;">1890000</td>
+<td class="xl65" style="width: 180px; text-align: center;">2000</td>
+<td class="xl65" style="width: 120px; text-align: center;">0.09765625</td>
+<td class="xl65" style="width: 120px; text-align: center;">0.078125</td>
+<td class="xl66" style="width: 120px; text-align: center;">0.01953125</td>
+</tr>
+<tr>
+<td class="xl65" style="width: 120px; text-align: center;">1890001</td>
+<td class="xl65" style="width: 120px; text-align: center;">2100000</td>
+<td class="xl65" style="width: 180px; text-align: center;">2000</td>
+<td class="xl65" style="width: 120px; text-align: center;">0.04882812</td>
+<td class="xl65" style="width: 120px; text-align: center;">0.039062496</td>
+<td class="xl66" style="width: 120px; text-align: center;">0.009765624</td>
+</tr>
+<tr>
+<td class="xl65" style="width: 120px; text-align: center;">2100001</td>
+<td class="xl65" style="width: 120px; text-align: center;">2310000</td>
+<td class="xl65" style="width: 180px; text-align: center;">2000</td>
+<td class="xl65" style="width: 120px; text-align: center;">0.02441406</td>
+<td class="xl65" style="width: 120px; text-align: center;">0.019531248</td>
+<td class="xl66" style="width: 120px; text-align: center;">0.004882812</td>
+</tr>
+<tr>
+<td class="xl65" style="width: 120px; text-align: center;">2310001</td>
+<td class="xl65" style="width: 120px; text-align: center;">2520000</td>
+<td class="xl65" style="width: 180px; text-align: center;">2000</td>
+<td class="xl65" style="width: 120px; text-align: center;">0.01220703</td>
+<td class="xl65" style="width: 120px; text-align: center;">0.009765624</td>
+<td class="xl66" style="width: 120px; text-align: center;">0.002441406</td>
+</tr>
+<tr>
+<td class="xl65" style="width: 120px; text-align: center;">2520001</td>
+<td class="xl65" style="width: 120px; text-align: center;">2730000</td>
+<td class="xl65" style="width: 180px; text-align: center;">2000</td>
+<td class="xl65" style="width: 120px; text-align: center;">0.00610351</td>
+<td class="xl65" style="width: 120px; text-align: center;">0.004882808</td>
+<td class="xl66" style="width: 120px; text-align: center;">0.001220702</td>
+</tr>
