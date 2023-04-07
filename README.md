@@ -28,3 +28,23 @@ MNBTC is a coin with Staking and Masternodes and with a max supply like Bitcoin 
 <td>Maximum Supply</td>
 <td>21 000 000 MNBTC</td>
 </tr>
+<tr>
+<td>Minimum Stake Age</td>
+<td>1 Hour</td>
+</tr>
+<tr>
+<td>Rewardstructure</td>
+<td>80 % Masternode Rewards & 20 % Staking Rewards</td>
+</tr>
+<tr>
+<td>Coin Maturity</td>
+<td>10+1 Block</td>
+</tr>
+<tr>
+<td>Port</td>
+<td>15224</td>
+</tr>
+<tr>
+<td>RPC Port</td>
+<td>15223</td>
+</tr>
