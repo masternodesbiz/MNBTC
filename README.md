@@ -86,3 +86,11 @@ MNBTC is a coin with Staking and Masternodes and with a max supply like Bitcoin 
 <td class="xl65" style="width: 120px; text-align: center;">10</td>
 <td class="xl65" style="width: 120px; text-align: center;">2.5</td>
 </tr>
+<tr>
+<td class="xl65" style="width: 120px; text-align: center;">630001</td>
+<td class="xl65" style="width: 120px; text-align: center;">840000</td>
+<td class="xl65" style="width: 180px; text-align: center;">2000</td>
+<td class="xl65" style="width: 120px; text-align: center;">6.25</td>
+<td class="xl65" style="width: 120px; text-align: center;">5.2</td>
+<td class="xl66" style="width: 120px; text-align: center;">1.3</td>
+</tr>
