@@ -4,7 +4,7 @@ MNBTC is a coin with Staking and Masternodes and with a max supply like Bitcoin 
 <p>
 
 (You can buy MNBTC from exchange for collateral) <br>
-<br> ***•https://xeggex*** <br>
+<br> ***•https://xeggex***  coming soon <br>
 
 
 <br> More information at: www.mn-btc.com <br>
