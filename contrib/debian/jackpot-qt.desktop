@@ -1,0 +1,13 @@
+[Desktop Entry]
+Version=1.0
+Name=mnbtc 
+Comment=mnbtc P2P Cryptocurrency
+Comment[fr]=mnbtc, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=mnbtc, eşten eşe kriptografik sanal para birimi
+Exec=mnbtc-qt %u
+Terminal=false
+Type=Application
+Icon=pivx128
+MimeType=x-scheme-handler/mnbtc;
+Categories=Office;Finance;
+StartupWMClass=mnbtc-qt

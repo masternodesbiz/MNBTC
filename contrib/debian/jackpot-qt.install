@@ -1,0 +1,6 @@
+usr/local/bin/mnbtc-qt usr/bin
+share/pixmaps/pivx32.xpm usr/share/pixmaps
+share/pixmaps/pivx16.xpm usr/share/pixmaps
+share/pixmaps/pivx128.png usr/share/pixmaps
+debian/mnbtc-qt.desktop usr/share/applications
+debian/mnbtc-qt.protocol usr/share/kde4/services/
